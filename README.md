@@ -1,42 +1,51 @@
-# Selam, ben Tuğba Ecem! 👋 
+# Hi, I'm Tuğba Ecem! 👋
 
-### 🎮 Game Developer | Unity & C# Enthusiast | React Learner
+🎮 **Game Developer (Unity & C#)** | ⚛️ **React Learner** | 🧠 **VR & Multiplayer Enthusiast**
 
-Beslenme ve Diyetetik alanındaki eğitimimin ardından yazılıma yönelerek İstanbul Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Unity ve C# kullanarak; sürdürülebilir, performanslı ve eğlenceli oyun deneyimleri geliştirmeye odaklanıyorum.
-
-- 🔭 **Unity & C#:** Oyun mekanikleri geliştirme, hata ayıklama ve performans optimizasyonu üzerine çalışıyorum.
-- ⚛️ **React:** Teknik yetkinliklerimi genişletmek adına son zamanlarda React dünyasını keşfediyorum.
-- 🛠️ **Temiz Kod:** SOLID prensiplerine uygun, okunabilir ve geliştirilebilir sistemler inşa etmeye önem veriyorum.
-- 🕹️ **VR & Multiplayer:** Çok oyunculu sosyal dedüksiyon oyunlarından VR projelerine kadar farklı deneyimlerim mevcut.
+After completing my education in Nutrition and Dietetics, I transitioned into software development and graduated from Istanbul University with a degree in Computer Programming.  
+I focus on building **performant, scalable, and engaging game experiences** using Unity and C#, while continuously improving my technical skill set.
 
 ---
 
-### 🛠 Teknolojiler & Araçlar
+## 🛠️ What I Do
 
-**Oyun & Yazılım Geliştirme:**
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![MSSQL](https://img.shields.io/badge/mssql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Web Temelleri:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- 🎮 **Unity & C#**: Developing game mechanics, debugging systems, and optimizing performance.
+- 🧠 **VR & Multiplayer**: Experience with social deduction multiplayer games and VR projects.
+- 🧹 **Clean Code**: Writing readable, maintainable, and scalable systems following **SOLID principles**.
+- ⚛️ **React**: Exploring modern frontend development to expand my technical versatility.
 
 ---
 
-### 🚀 Öne Çıkan Projem: Darkness of The Night 🌑
-Unity Engine ile geliştirilmiş, çok oyunculu bir sosyal dedüksiyon oyunu.
-- Çok oyunculu lobi ve kullanıcı arayüzü (UI) sistemlerini geliştirdim.
-- Oyun performansını artırmak için genel optimizasyon çalışmaları yaptım.
-- Ayarlar menüsü ve kullanıcı deneyimi süreçlerinde aktif rol aldım.
+## 🧰 Technologies & Tools
+
+### 🎮 Game & Software Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🌐 Web Fundamentals
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
+## 🌑 Featured Project: **Darkness of The Night**
 
-### 📫 Benimle Bağlantı Kur!
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ecem-yildiz98/)
-- 📧 [tugbaecemy@gmail.com](mailto:tugbaecemy@gmail.com)
+A multiplayer **social deduction game** developed with Unity.
+
+- Implemented multiplayer lobby and user interface (UI) systems.
+- Conducted overall optimization to improve game performance.
+- Actively contributed to settings menus and user experience flows.
+
+> This project helped me gain hands-on experience in **multiplayer architecture, performance optimization, and player-focused UI design**.
+
+---
+
+## 🤝 Let’s Connect!
+
+- 💼 [LinkedIn Profile](#)
+- 📧 **tugbaecemy@gmail.com**
